@@ -12,7 +12,7 @@ SERVICE_STATUS_RUNNING = "running"
 # credentioonal for mail services
 
 mailAddressFrom = "test@test.com"
-mailAddressFromPassword = "***"
+mailAddressFromPassword = "****"
 mailAddressToSuccess = {"1@test.com"}
 mailAddressToBrocken = {"1@test.com", "1@test.com"}
 smtpServer = smtplib.SMTP('outlook.office365.com', 587)
