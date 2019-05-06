@@ -53,5 +53,5 @@ def sendMailbrocken(serviceNotWork):
     smtpServer.sendmail(mailAddressFrom, mailAddressTo, mailBodyMassage)
     smtpServer.quit()
 
-#Start checking
+#Start check
 startServices(services)
